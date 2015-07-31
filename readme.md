@@ -18,6 +18,6 @@ Make sure node is installed.
 
 Run `npm install' from the root to download any dependencies.
 
-Run `gulp' to build the HTML/CSS and begin serving it, by default on port 8086. (This can be tailored in lib/config/index.js)
+Run `gulp' to build the HTML/CSS and begin serving it, by default on port 8086. (This can be tailored in index.js, toward the bottom)
 
 Visit the page in a web browser from each player's device to get started. It's pretty self-explanatory from there.
